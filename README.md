@@ -1,1 +1,1 @@
-![Your GIF](<iframe src="https://giphy.com/embed/3o7TKKImRT3NiD8IM0" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-codingcommunity-3o7TKKImRT3NiD8IM0">via GIPHY</a></p>)
+![Your GIF](https://giphy.com/embed/3o7TKKImRT3NiD8IM0)
