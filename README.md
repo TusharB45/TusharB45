@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tushar Mukesh Borse
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** with a strong foundation in **software development, programming, and data structures**. Currently, I am working as a **Trainee at HERE Technologies**, gaining hands-on experience in cutting-edge technologies. My interests lie in **web development, GIS , and Data science**.
+I'm a IT graduate with a strong foundation in **software development, programming, and data structures**. Currently, I am working as a **Trainee at HERE Technologies**, gaining hands-on experience in cutting-edge technologies. My interests lie in **web development, GIS , and Data science**.
 
 ## 🎓 Education
 - **BSc in Information Technology** – Mumbai University (Score: 7.60%)
