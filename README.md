@@ -19,4 +19,5 @@ I'm a IT graduate with a strong foundation in **software development, programmin
 - **GitHub:** [[Your GitHub Profile](https://github.com/TusharB45/](#)
 
 Feel free to reach out for collaborations, projects, or just a tech chat! 🚀
+![Visitor Count](https://komarev.com/ghpvc/?username=TusharB45)
 
